@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.navbar{
+    background-color:#28A745;
+    display: block;
+}
+.card h5{
+    font-size: 20px;
+    font-weight: 300;
+    color: #212529;
+    
+}
+
+.card .card-text{
+    font-size: 16px;
+    font-weight: 300;
+    color:#707070;
+}
+.card small{
+    font-size: 13px;
+    font-weight: 300;
+    padding: 0;
+
+}
+.card i{
+    font-size: 13px;
+    color: #707070;
+}
+.card .preciopeque{
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+.card .text-success{
+    font-size: 20px;
+    font-weight: 500;
+}
+.card .card-img-top{
+    line-height: 1.5em;
+    width: 100%;
+    width: 100%;
+}
+.card small{
+    color: #707070;
+}
+#recibe-cupones{
+    background-color: #28A745;
+}
+#recibe-cupones h2{
+    color:white;
+    font-size: 21px;
+
+}
+#recibe-cupones input{
+    font-size: 16px;
+    font-weight: 300;
+}
+#recibe-cupones .btn{
+background-color:#F8F9FA;
+color: #212529;
+font-size: 16px;
+font-weight: 500;
+}
+footer p{
+    font-size: 16px;
+    font-weight: 200;
+    color: #707070;
+}
